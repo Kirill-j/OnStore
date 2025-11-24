@@ -1,2 +1,2 @@
 # OnStore
-## Online store
+## Web project - "Online store"
